@@ -1,3 +1,4 @@
+//time and space complexity = O(1)
 public class StackAsLinkedList { 
   
     StackNode root; 
